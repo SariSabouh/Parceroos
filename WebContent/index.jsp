@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-Let the QULAIFYT Being!
+<button>BALLS</button>
+<% System.out.println("SEBAS SCUKS"); %>
 </body>
 </html>
